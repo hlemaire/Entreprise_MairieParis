@@ -1,4 +1,4 @@
-🏛️ Questions Stratégiques et Générales sur l'Entreprise
+###🏛️ Questions Stratégiques et Générales sur l'Entreprise
 
 * Évolution : Comment l'activité de l'entreprise a-t-elle évolué ces dernières années et quelles sont vos perspectives de croissance ?
 * Résultats : Quelle est la tendance de votre chiffre d'affaires sur les 3-5 dernières années ?
@@ -11,7 +11,7 @@
 
 ---
 
-💻 Questions Spécifiques au Système d'Information (DSI)
+###💻 Questions Spécifiques au Système d'Information (DSI)
 
 * Investissement : Quelle est, en ordre de grandeur, la part du budget allouée au département IT (ou à la DSI) ?
 * Équipe IT : Combien de collaborateurs composent l'équipe informatique (internes/externes) ?
@@ -28,7 +28,7 @@
 
 ---
 
-🤝 Questions sur la Culture, le Recrutement et l'Équipe
+###🤝 Questions sur la Culture, le Recrutement et l'Équipe
 
 * Croissance externe : Envisagez-vous des opérations de croissance externe (fusions-acquisitions) ? Si oui, quel serait le profil des sociétés ciblées ?
 * Recrutement : Quels sont vos principaux canaux pour identifier et attirer de nouveaux talents ?
