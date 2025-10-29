@@ -35,11 +35,7 @@
 * Culture d'entreprise : Comment décririez-vous la culture d'entreprise et l'ambiance de travail au quotidien ?
 * Profils de l'équipe : Quel est le profil type (formations, parcours professionnels) des membres de l'équipe informatique ?
 * Jeunes talents : Accueillez-vous régulièrement des stagiaires ou des alternants au sein de l'équipe ?
-
-Missions (Jeunes talents) : Si oui, quel type de missions ou de projets leur sont typiquement confiés ?
-
-Intégration : Comment se déroule le processus d'intégration (onboarding) d'un nouveau collaborateur ?
-
-Attentes : Au-delà des compétences techniques, quelles sont les qualités humaines (soft skills) que vous valorisez le plus chez vos collaborateurs ?
-
-Conseil d'intégration : Si une personne (comme moi) devait rejoindre votre équipe, quel conseil clé lui donneriez-vous pour réussir son intégration et avoir de l'impact ?
+* Missions (Jeunes talents) : Si oui, quel type de missions ou de projets leur sont typiquement confiés ?
+* Intégration : Comment se déroule le processus d'intégration (onboarding) d'un nouveau collaborateur ?
+* Attentes : Au-delà des compétences techniques, quelles sont les qualités humaines (soft skills) que vous valorisez le plus chez vos collaborateurs ?
+* Conseil d'intégration : Si une personne (comme moi) devait rejoindre votre équipe, quel conseil clé lui donneriez-vous pour réussir son intégration et avoir de l'impact ?
